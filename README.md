@@ -7,6 +7,9 @@
 
 This repository holds a current snapshot of datashades data, and a historical record of snapshots over time.
 
+- `datashades_snapshot.json` is a snapshot of the current data, as of Jan 31, 2024
+- `datashades_historical.json` are historical snapshots of the data, up to Jan 31, 2024
+
 ## What is in the data?
 
 Datashades.info provides a publicly-accessible index of metadata and statistics on CKAN data portals across globe. Data is gathered on portal users, datasets, resources, organisations, tags and plugins for each portal that can be accessed. As the index is refreshed, old data is kept in a historical index.
